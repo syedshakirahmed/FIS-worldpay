@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.smart.meter.SmartMeterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.525 s - in com.smart.meter.SmartMeterApplicationTests
