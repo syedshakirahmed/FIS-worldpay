@@ -13,7 +13,14 @@ http://localhost:8080/api/offers/cancel/10002
 
 
 
+To Accept H2 DB Console, please use the following
+URL 
+http://localhost:8080/h2-console/
 
+spring.datasource.url=jdbc:h2:mem:smartOffer
+USERNAME : sa
+Password :
+<Password is Empty>
 
 
 
